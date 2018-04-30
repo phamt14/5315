@@ -18,9 +18,9 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
-                $(this).find('marital status').text(),
-                $(this).find('weakness').text(),
+                $(this).find('Name').text(),
+                $(this).find('Marital_status').text(),
+                $(this).find('Weakness').text(),
                 $(this).find('email').text()
               ] ).draw( false );
              });
