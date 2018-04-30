@@ -11,16 +11,16 @@
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
-                <th>Salary</th>
+                <th>Marital Status</th>
+                <th>Weakness</th>
+                <th>Email</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th>Name</th>
+                <th>Marital Status</th>
+                <th>Weakness</th>
                 <th>Email</th>
             </tr>
         </tfoot>
@@ -36,7 +36,9 @@
         $('#empTable').dataTable({
             "ajax": "empdata.js",
             "columns": [
-                {"data": "name"},
+                {"data": "Name"},
+                {"data": "Marital Status"},
+                {"data": "Weakness"},
                 {"data": "email"}
             ]
         });   
