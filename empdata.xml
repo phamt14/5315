@@ -1,51 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <employees>
     <data>
-      <Name>James Bond</Name>
-      <Marital_status>Single and Always Available</Marital_status>
-      <Weakness>Alcoholism</Weakness>
-      <exmail>ohohseven@gmail.com</email>
+      <name>James Bond</name>
+      <designation>Accountant</designation>
+      <salary>$170,750</salary>
+      <joining_date>2011/07/25</joining_date>
+      <office>Tokyo</office>
+      <extension>8422</extension>
     </data>
     <data>
-      <Name>Liam Payne</Name>
-      <Marital_status>Maried to a lady much older than himself</Marital_status>
-      <Weakness>Can only move in One Direction</Weakness>
-      <exmail>cradle_robbed@uk.com</email>
+      <name>Brielle Williamson</name>
+      <designation>Integration Specialist</designation>
+      <salary>$372,000</salary>
+      <joining_date>2012/12/02</joining_date>
+      <office>New York</office>
+      <extension>4804</extension>
     </data>
     <data>
-      <Name>Adolf Hitler</Name>
-      <Marital_status>Married to Eva Braun</Marital_status>
-      <Weakness>Nein</Weakness>
-      <exmail>DasReich@deustch.com</email>
+      <name>Ashton Cox</name>
+      <designation>Junior Technical Author</designation>
+      <salary>$86,000</salary>
+      <joining_date>2009/01/12</joining_date>
+      <office>San Francisco</office>
+      <extension>1562</extension>
     </data>
     <data>
-      <Name>Voldemort</Name>
-      <Marital_status>Married to a snake</Marital_status>
-      <Weakness>A boy wizard name Harry</Weakness>
-      <exmail>tom.r.marvolo@hw.edu</email>
+      <name>Airi Satou</name>
+      <designation>Accountant</designation>
+      <salary>$162,700</salary>
+      <joining_date>2008/11/28</joining_date>
+      <office>Tokyo</office>
+      <extension>5407</extension>
     </data>
     <data>
-      <Name>JKim Jong Un</Name>
-      <Marital_status>Maried but adored by all females in North Korea</Marital_status>
-      <Weakness>Sweets. Dude is obese.</Weakness>
-      <exmail>rocketman@northk.com</email>
+      <name>Caesar Vance</name>
+      <designation>Pre-Sales Support</designation>
+      <salary>$106,450</salary>
+      <joining_date>2011/12/12</joining_date>
+      <office>New York</office>
+      <extension>8330</extension>
     </data>
     <data>
-      <Name>Taylor Swift</Name>
-      <Marital_status>No idea</Marital_status>
-      <Weakness>Nice face boys</Weakness>
-      <exmail>richgirl@gmail.com</email>
+      <name>Shad Decker</name>
+      <designation>Regional Director</designation>
+      <salary>$183,000</salary>
+      <joining_date>2008/11/13</joining_date>
+      <office>Edinburgh</office>
+      <extension>6373</extension>
     </data>
     <data>
-      <Name>Margaret Thatcher</Name>
-      <Marital_status>Married</Marital_status>
-      <Weakness>Bloody Treacherous Micheal Heseltin</Weakness>
-      <exmail>argentina.conqueror.co.uk</email>
+      <name>Cedric Kelly</name>
+      <designation>Senior Javascript Developer</designation>
+      <salary>$433,060</salary>
+      <joining_date>2012/03/29</joining_date>
+      <office>Edinburgh</office>
+      <extension>6224</extension>
     </data>
     <data>
-      <Name>Nicki Minaj</Name>
-      <Marital_status>Engaged to a boy toy name Troy</Marital_status>
-      <Weakness>Men</Weakness>
-      <exmail>myanacondadont@su.edu</email>
+      <name>Haley Kennedy</name>
+      <designation>Senior Marketing Designer</designation>
+      <salary>$313,500</salary>
+      <joining_date>2012/12/18</joining_date>
+      <office>London</office>
+      <extension>3597</extension>
+    </data>
+    <data>
+      <name>Colleen Hurst</name>
+      <designation>Javascript Developer</designation>
+      <salary>$205,500</salary>
+      <joining_date>2009/09/15</joining_date>
+      <office>San Francisco</office>
+      <extension>2360</extension>
+    </data>
+    <data>
+      <name>Dai Rios</name>
+      <designation>Personnel Lead</designation>
+      <salary>$217,500</salary>
+      <joining_date>2012/09/26</joining_date>
+      <office>Edinburgh</office>
+      <extension>2290</extension>
+    </data>
+    <data>
+      <name>Herrod Chandler</name>
+      <designation>Sales Assistant</designation>
+      <salary>$137,500</salary>
+      <joining_date>2012/08/06</joining_date>
+      <office>San Francisco</office>
+      <extension>9608</extension>
+    </data>
+    <data>
+      <name>Rhona Davidson</name>
+      <designation>Integration Specialist</designation>
+      <salary>$327,900</salary>
+      <joining_date>2010/10/14</joining_date>
+      <office>Tokyo</office>
+      <extension>6200</extension>
+    </data>
+    <data>
+      <name>Sonya Frost</name>
+      <designation>Software Engineer</designation>
+      <salary>$103,600</salary>
+      <joining_date>2008/12/13</joining_date>
+      <office>Edinburgh</office>
+      <extension>1667</extension>
+    </data>
+    <data>
+      <name>Jena Gaines</name>
+      <designation>Office Manager</designation>
+      <salary>$90,560</salary>
+      <joining_date>2008/12/19</joining_date>
+      <office>London</office>
+      <extension>3814</extension>
+    </data>
+    <data>
+      <name>Quinn Flynn</name>
+      <designation>Support Lead</designation>
+      <salary>$342,000</salary>
+      <joining_date>2013/03/03</joining_date>
+      <office>Edinburgh</office>
+      <extension>9497</extension>
     </data>
   </employees>
